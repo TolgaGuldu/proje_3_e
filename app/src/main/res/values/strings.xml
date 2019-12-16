@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">15puzzletolga</string>
+    <string name="_15puzzle">15PUZZLE</string>
+    <string name="scramble">SCRAMBLE!</string>
+    <string name="newgame">START</string>
+    <string name="square0">1</string>
+    <string name="square1">2</string>
+    <string name="square2">3</string>
+    <string name="square3">4</string>
+    <string name="square4">5</string>
+    <string name="square5">6</string>
+    <string name="square6">7</string>
+    <string name="square7">8</string>
+    <string name="square8">9</string>
+    <string name="square9">10</string>
+    <string name="square10">11</string>
+    <string name="square11">12</string>
+    <string name="square12">13</string>
+    <string name="square13">14</string>
+    <string name="square14">15</string>
+    <string name="square15">0</string>
+
+</resources>
